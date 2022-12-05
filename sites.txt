@@ -1,0 +1,4 @@
+https://random-status-code.herokuapp.com
+https://github.com
+https://stackoverflow.com
+https://go.dev
