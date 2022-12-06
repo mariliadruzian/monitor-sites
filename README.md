@@ -1,3 +1,7 @@
+<p align="center">
+<img src="img.jpg" alt="Screenshot do projeto Monitor de Sites" title="Projeto Monitor de Sites">
+</p>
+
 ## Sobre
 **Monitor de Sites** é o meu primeiro projeto utilizandoo a linguagem **Golang**. Foi criado durante o curso [Go: a linguagem do Google](https://cursos.alura.com.br/course/golang), ministrado pelo professor [Douglas Quintanilha](https://www.linkedin.com/in/douglas-quintanilha). O objetivo desse projeto foi me introduzir na linguagem Go.
 
